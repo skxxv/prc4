@@ -1,2 +1,5 @@
 hello world
-hello world 2
+<<<<<<< HEAD
+=======
+hello world 1
+>>>>>>> abc
